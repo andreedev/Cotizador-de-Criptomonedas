@@ -1,5 +1,5 @@
 # Cotizador-de-Criptomonedas
 
-Made in javascript using an API.
+Desarrollado con JS, usando promesas, POO, JSON, y API de criptomonedas: https://www.cryptocompare.com/
 
-Note: It's not working now, since the API key needs to be updated.
+Ver: https://app.netlify.com/sites/cotizador-de-criptomonedas/overview
